@@ -48,8 +48,6 @@
 
 <br />
 
----
-
 ## Preferred languages
 
 <br />
