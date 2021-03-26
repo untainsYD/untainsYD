@@ -7,7 +7,7 @@
         alt="Rainbow Flag"
         width="30"
         height="30"
-        style="margin-left: 20px"
+        style="margin-top: 8px; margin-left: 20px"
     >
     <img
         src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/281/transgender-flag_1f3f3-fe0f-200d-26a7-fe0f.png"
@@ -15,7 +15,7 @@
         alt="Transgender Flag"
         width="30"
         height="30"
-        style="margin-left: 10px"
+        style="margin-top: 8px; margin-left: 10px"
     >
     <img
         src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/112/raised-fist_emoji-modifier-fitzpatrick-type-6_270a-1f3ff_1f3ff.png"
@@ -23,7 +23,7 @@
         alt="BLM"
         width="30"
         height="30"
-        style="margin-left: 6px"
+        style="margin-top: 8px; margin-left: 5px"
     >
 </h1>
 
