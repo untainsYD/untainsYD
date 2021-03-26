@@ -36,7 +36,7 @@
 
 <br />
 
-## A few of statistics for my profile
+## A few statistics for my profile
 
 <br />
 
