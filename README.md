@@ -52,4 +52,4 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=untainsYD)](https://github-readme-stats.vercel.app/api/top-langs/?username=untainsYD&layout=compact&theme=jolly&langs_count=10)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=untainsYD&theme=jolly&layout=compact&line_height=35%&hide_border=true&border_radius=20px)](https://github-readme-stats.vercel.app/api/top-langs/?username=untainsYD&layout=compact&theme=jolly&langs_count=10)
