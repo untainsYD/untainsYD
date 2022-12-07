@@ -7,16 +7,15 @@
 
 <br />
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=untainsYD&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=5&column=4&margin-w=20&margin-h=15)](https://github-profile-trophy.vercel.app/?username=untainsYD&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=5&column=4&margin-w=20&margin-h=15)
 
 <br />
 
-## A few statistics for my profile
+## Stats
 
 <br />
 
-![untains' GitHub stats](https://github-readme-stats.vercel.app/api?username=untainsYD&show_icons=true&theme=jolly&layout=compact&line_height=35%&hide_border=true&border_radius=20px&include_all_commits=true&count_private=true&show_owner=true&custom_title=Yaroslav+Doroshenko's+/+untains+Github+Stats)
+![untainsYD GitHub stats](https://github-readme-stats.vercel.app/api?username=untainsYD&show_icons=true&theme=jolly&layout=compact&line_height=35%&hide_border=true&border_radius=20px&include_all_commits=true&count_private=true&show_owner=true&custom_title=Yaroslav+Doroshenko's+/+untains+Github+Stats)
 
 <br />
 
@@ -24,7 +23,7 @@
 
 <br />
 
-## Preferred languages
+## Langs
 
 <br />
 
