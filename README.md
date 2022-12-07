@@ -15,7 +15,7 @@
 
 <br />
 
-![untainsYD GitHub stats](https://github-readme-stats.vercel.app/api?username=untainsYD&show_icons=true&theme=jolly&layout=compact&line_height=35%&hide_border=true&border_radius=20px&include_all_commits=true&count_private=true&show_owner=true&custom_title=Yarosλaβ+/.+/+untainsYD+Github+Stats)
+![untainsYD GitHub stats](https://github-readme-stats.vercel.app/api?username=untainsYD&show_icons=true&theme=jolly&layout=compact&line_height=35%&hide_border=true&border_radius=20px&include_all_commits=true&count_private=true&show_owner=true&custom_title=Yarosλaβ+.+/+untainsYD+Github+Stats)
 
 <br />
 
