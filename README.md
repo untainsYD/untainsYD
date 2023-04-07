@@ -14,8 +14,8 @@
 -->
 
 I am experienced in backend development with Java and Scala and frontend development with JavaScript.<br>
-Also, I am interested in Functional Programming and know at least 3 fp langs (OCaml, Haskell, Idris).<br>
-I have strong knowledge in curricula like algorithms and data structures, formal verification, proofs, type theory (λ, HTT, DTT, etc), category theory, abstract algebra, and other further mathematics topics and theoretical computer science that helps me in my software engineering workflow.
+Also, I am interested in Functional Programming, and FP langs such as Haskell, Idris, Coq, and OCaml.<br>
+I have strong knowledge in curricula like algorithms and data structures, formal verification, proofs, type theory (λ, HTT, DTT, etc), category theory, abstract algebra, and other further mathematics topics and theoretical computer science that help me in my software engineering workflow.
 
 Open for friendship!
 
