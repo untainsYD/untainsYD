@@ -13,7 +13,7 @@
 <a href="NONE">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
 -->
 
-I am an experienced backend developer proficient in Java and Scala, with a passion for frontend development using JavaScript. Additionally, I am deeply interested in Functional Programming/FM and have hands-on experience with languages like Haskell, Standard ML, Idris, Coq, OCaml, Arend, Agda, Lean4, TLA+, etc.
+I am a software engineer passionate about Scala, Java, and JavaScript. Additionally, I am deeply interested in Functional Programming/FM and have hands-on experience with languages like Haskell, Standard ML, Idris, Coq, OCaml, Arend, Agda, Lean4, TLA+, etc.
 
 My expertise extends to various areas, including algorithms, data structures, formal verification, type theory (λ, HTT, DTT, etc.), category theory, abstract algebra, and other advanced mathematics and theoretical computer science topics. These skills greatly enhance my software engineering workflow, enabling me to tackle complex challenges effectively.
 
